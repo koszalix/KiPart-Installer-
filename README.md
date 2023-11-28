@@ -5,6 +5,6 @@ This tool will install KiPart inside venv inside your home directory.
 
 # Usage
 ```bash
-wget | bash 
+curl https://raw.githubusercontent.com/koszalix/KiPart-Installer-/main/install.sh | bash 
 
 ``` 
